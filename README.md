@@ -35,8 +35,6 @@ This project focuses on analyzing E-Commerce sales performance using Power BI an
 The dashboard provides meaningful business insights that improve decision-making and sales performance.
 
 ## Author
-### Souvik Bagchi
+### boobesh R
 
-- LinkedIn: www.linkedin.com/in/souvik-bagchi-data-analyst
-- GitHub: https://github.com/Souvik1555
-- Email: bagchiofficial05@gmail.com
+-
